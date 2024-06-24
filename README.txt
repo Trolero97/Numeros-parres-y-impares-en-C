@@ -1,0 +1,1 @@
+It is something very basic in programming odd and even numbers. If you have any questions, you can ask them. by Trolero97
